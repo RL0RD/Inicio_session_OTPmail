@@ -4,11 +4,11 @@ Basado en una arquitectura modular, donde se prioriza la implementación de medi
 
 La utilización de funciones hash en este contexto implica que, en lugar de almacenar o transmitir las contraseñas en su forma original, se emplea una representación criptográfica irreversible generada por la función hash. Esto contribuye a una mayor seguridad, ya que el hash resultante no revela directamente la contraseña original y dificulta significativamente la tarea de descifrar su valor. Además, este enfoque minimiza el riesgo de que se revelen patrones o similitudes entre contraseñas, ya que incluso contraseñas similares pueden generar hashes considerablemente diferentes. 
 
-Lenguajes utilizados
+### Lenguajes utilizados
 - SQL
 - PYTHON
 
-Librerias y frameworks destacadas
+### Librerias y frameworks destacadas
 - Asgiref
 - Cryptography
 - Django
